@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="{{ url('assets/css/bootstrap.min.css')}}">
     <link rel="stylesheet" href="{{ url('assets2/css/Style.css')}}">
     <link rel="icon" href="{{ url('assets2/img/calavera-mexicana.png')}}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <script src="https://kit.fontawesome.com/beae16a269.js" crossorigin="anonymous"></script>
 </head>
 <body>
     @include('layouts.partials.navbar')

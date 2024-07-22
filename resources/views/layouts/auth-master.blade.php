@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="{{ url('assets/css/bootstrap.min.css')}}">
     <link rel="stylesheet" href="{{ url('assets2/css/Login.css')}}">
     <link rel="icon" href="{{ url('assets2/img/calavera-mexicana.png')}}">
+    
 </head>
 <body>
     

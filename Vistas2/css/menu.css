@@ -14,18 +14,13 @@
 }
 
 .menu{
-  color: #e9e4d5 !important;  /* Oro para el color del texto */
-  text-shadow: 
-  0 0 5px rgba(255, 215, 0, 0.7), /* Sombra dorada difusa */
-  0 0 10px rgba(255, 215, 0, 0.5), 
-  0 0 15px rgba(255, 215, 0, 0.4), 
-  0 0 20px rgba(255, 215, 0, 0.3); 
+  color: gold !important;  /* Oro para el color del texto */ 
 }
 
 .imgfondo{
   opacity: 8 !important;
   background-color: rgba(0, 0, 0, 0.9)       !important; 
-  filter: blur(2px);
+  filter: blur(4px);
 
 }
 
